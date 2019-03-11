@@ -1,5 +1,5 @@
-# twit-battle
-my twit-battle project made with my teamate for school. this project allows user to retrieve two characters from either twitter api or uploading their own.  then they gain att/hp based on the twitter account's followers or their number of tweets. after each battle the loser gets eliminated and the winner would gain the loser's stats.
+# simple MERN product table
+my MERN project. it is a simple site that let user add new products to a table and sort them.
 
 ## Usage
 Install the dependencies and start the server.
@@ -13,4 +13,5 @@ npm run dev
 
 ## Dependencies
 MERN
+react-table
 react-router-dom
